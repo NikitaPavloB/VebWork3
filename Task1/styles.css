@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(220, 250, 249);
+}
+h1 {
+  color: rgba(218, 4, 218, 0.762);
+  font-size: 30px
+}
+
+h2 {
+  color: rgba(32, 8, 247, 0.762);
+  font-size: 30px
+}
+
+p {
+  font-size: 20px
+}
